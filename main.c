@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("Hello World");
 	int Foo = 0;
 	for (int i = 0; i < 100000000; i += 1)
 	{
@@ -13,6 +12,6 @@ int main()
 		}
 	}
 	// printf("%d", Foo);
-	printf("I have no mouth and I must scream")
+	printf("I have no mouth and I must scream");
 	return 0;
 }
