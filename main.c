@@ -12,6 +12,7 @@ int main()
 			Foo /= 2;
 		}
 	}
-	printf("%d", Foo);
+	// printf("%d", Foo);
+	printf("I have no mouth and I must scream")
 	return 0;
 }
