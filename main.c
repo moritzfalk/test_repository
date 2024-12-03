@@ -3,7 +3,7 @@
 int main()
 {
 	int Foo = 0;
-	for (int i = 0; i < 100000000; i += 1)
+	for (int i = 0; i < 10000; i += 1)
 	{
 		Foo += i;
 		if (Foo > 2048)
